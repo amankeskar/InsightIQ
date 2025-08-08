@@ -93,7 +93,7 @@ streamlit run app.py
 *A spinner animation appears while the app processes your question and generates an answer.*
 
 #### Answer Display
-![Answer](Images/Answer.png)
+![Answer]([Images/Answer.png](https://github.com/amankeskar/InsightIQ/blob/e0ad0f55600a91157bba6a10ff2ac1b8ae66904f/Answer.png))
 *Answers are displayed in a highlighted box, with chat history saved in the sidebar for reference.*
 
 ---
@@ -110,3 +110,4 @@ MIT License
 
 ## 🙌 Contribute / Feedback
 PRs and feedback are welcome! Feel free to fork the repo or open issues for improvements.
+

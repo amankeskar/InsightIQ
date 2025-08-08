@@ -111,4 +111,4 @@ MIT License
 ## 🙌 Contribute / Feedback
 PRs and feedback are welcome! Feel free to fork the repo or open issues for improvements.
 
-https://github.com/amankeskar/InsightIQ/blob/main/Answer.png?raw=true
+
